@@ -57,3 +57,4 @@ Predict car purchase amounts based on customer data using machine learning model
    ```bash
    git clone https://github.com/AADHITHYAN07/sales-prediction.git
    cd sales-prediction
+
