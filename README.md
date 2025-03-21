@@ -54,4 +54,5 @@ Predict car purchase amounts based on customer data using machine learning model
 1. Clone the repository:
    ```bash
    git clone https://github.com/AADHITHYAN07/Growthlink_assignment.git
-   cd Growthlink_assignment
+   cd Growthlink_assignmentgit status
+
