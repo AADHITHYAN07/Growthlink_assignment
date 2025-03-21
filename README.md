@@ -1,6 +1,4 @@
-# Growthlink_assignment
-
-## Sales Prediction for GrowthLink
+# 🚀 Growthlink Assignment: Sales Prediction
 
 ## 📌 Task Objective
 
@@ -10,7 +8,7 @@ Predict car purchase amounts based on customer data using machine learning model
 
 ## 🧾 Dataset
 
-- **Source**: https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction?resource=download
+- **Source**: [Kaggle Dataset - ANN Car Sales Price Prediction](https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction?resource=download)
 - **Features**:
   - Demographics: Country, Gender, Age
   - Financial: Annual Salary, Credit Card Debt, Net Worth
@@ -40,13 +38,13 @@ Predict car purchase amounts based on customer data using machine learning model
 ## 🔧 Enhancements
 
 - 🔥 **XGBoost Regressor**: Improved performance using gradient boosting.
-- 📊 **Residual Analysis**: Checked prediction error distribution to confirm normality and unbiased model behavior.
+- 📊 **Residual Analysis**: Verified that residuals are normally distributed and model errors are unbiased.
 
 ---
 
 ## 🚀 Results
 
-- **XGBoost** gave the best performance with the highest R² and lowest RMSE.
+- **XGBoost** performed best with the highest R² and lowest RMSE.
 - Most influential features: Net Worth, Credit Card Debt, and Salary.
 
 ---
@@ -55,6 +53,5 @@ Predict car purchase amounts based on customer data using machine learning model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AADHITHYAN07/sales-prediction.git
-   cd sales-prediction
-
+   git clone https://github.com/AADHITHYAN07/Growthlink_assignment.git
+   cd Growthlink_assignment
